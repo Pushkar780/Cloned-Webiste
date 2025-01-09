@@ -17,11 +17,12 @@ section{
     width: "599px";
 }
 nav{
-    height: 100px;
-    display: flex;
-    width: 100%;
+    max-width: 60vw;
     justify-content: space-between;
+    margin: auto;
+    display: flex;
     align-items: center;
+    height: 100px;
 }
 nav ul{
     list-style: none;
